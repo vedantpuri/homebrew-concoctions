@@ -5,8 +5,8 @@ This repository was created in order to develop and maintain homebrew taps for m
 
 ### Pyosphere
 ```bash
-brew tap vedantpuri/concoctions
-brew install pyosphere
+$ brew tap vedantpuri/concoctions
+$ brew install pyosphere
 ```
 
 ## License
