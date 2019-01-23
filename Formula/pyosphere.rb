@@ -9,3 +9,4 @@ class Pyosphere < Formula
     bin.install "pyosphere.sh" => "pyosphere"
   end
 end
+#
